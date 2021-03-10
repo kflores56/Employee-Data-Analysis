@@ -41,7 +41,7 @@ Select employees.first_name,
 	employees.sex
 FROM employees 
 WHERE first_name = 'Hercules' 
-	AND last_name LIKE 'B%'
+	AND last_name LIKE 'B%';
 
 --List all employees in the Sales department, including their: 
 --employee number, last name, first name, and department name.
@@ -70,4 +70,4 @@ WHERE dept_name = 'Sales' OR dept_name = 'Development';
 SELECT last_name, COUNT(first_name) AS "Total Employees"
 from employees
 GROUP BY (last_name)
-ORDER BY "Total Employees" DESC
+ORDER BY "Total Employees" DESC;
