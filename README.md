@@ -50,7 +50,7 @@ The following steps were conducted to generate a visualization and additional an
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
-![../Additional Evaluation/images/salaries.png](salaries.png)
+![salaries.png](../Additional Evaluation/images/salaries.png)
 
 3. Create a bar chart of average salary by title.
 
