@@ -50,15 +50,15 @@ The following steps were conducted to generate a visualization and additional an
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
-![salaries.png](../Additional Evaluation/images/salaries.png)
+![salaries.png](https://github.com/kflores56/sql-challenge/blob/main/Additional_Evaluation/images/salaries.png?raw=true)
 
 3. Create a bar chart of average salary by title.
 
-![../Additional Evaluation/images/title_salary.png](title_salary.png)
+![title_salary](https://github.com/kflores56/sql-challenge/blob/main/Additional_Evaluation/images/title_salary.png?raw=true)
 
 4. Search for data for ID number 499942
 
-![../Additional Evaluation/images/id.png](id.png)
+![id.png](https://github.com/kflores56/sql-challenge/blob/main/Additional_Evaluation/images/ID.png)
 
 
 
