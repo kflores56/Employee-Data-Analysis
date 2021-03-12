@@ -14,7 +14,7 @@ In this project, I designed tables to hold data in CSVs, imported CSVs into a SQ
 
 The first portion of this analysis included a review the CSVs and sketching out an Entity Relationship Diagram (ERD). 
 
-![ERD_diagram.png](ERD_diagram.png)
+![ERD_diagram.png](https://github.com/kflores56/sql-challenge/blob/main/ERD/ERD_diagram.png?raw=true "ERD Diagram")
 
 ### 2. Data Engineering
 
